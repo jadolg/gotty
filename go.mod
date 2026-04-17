@@ -1,6 +1,6 @@
 module github.com/yudai/gotty
 
-go 1.15
+go 1.26.2
 
 require (
 	github.com/NYTimes/gziphandler v0.0.0-20170804200234-967539e5e271
